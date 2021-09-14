@@ -17,12 +17,12 @@
 
 .btn {
   display: inline-block;
-  padding: 10px 30px !important;
+  padding: 10px 30px;
   cursor: pointer;
-  background-color: var(--primary-color) !important;
+  background-color: var(--primary-color);
   color: white;
-  border: none !important;
-  border-radius: 5px !important;
+  border: none;
+  border-radius: 5px;
 }
 
 .btn:hover {
@@ -37,7 +37,7 @@
 /* ===BACKGROUND & COLORED BTNS */
 .bg-primary,
 .btn-primary {
-  background: var(--primary-color) !important;
+  background: var(--primary-color);
   color: white;
 }
 
