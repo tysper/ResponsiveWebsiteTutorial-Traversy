@@ -12,4 +12,4 @@ Hello. Nice to see you here, this is a project created by following a tutorial f
 
 It was a fun project to build and I definitely got some tricks that will follow my carreer forever.
 
-This is the link to my version of the project: <a href="#">Kyawaen</a>
+This is the link to my version of the project: <a href="https://peaceful-shaw-9426a1.netlify.app/index.html">Kyawaen</a>
